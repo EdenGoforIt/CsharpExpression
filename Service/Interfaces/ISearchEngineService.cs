@@ -1,6 +1,6 @@
 ﻿namespace Service.Interfaces
 {
-    public interface IUserService
+    public interface ISearchEngineService
     {
 
     }

@@ -6,10 +6,10 @@ namespace Expression.Controllers
     [ApiController]
     public class UserController : ControllerBase
     {
-        [HttpGet("{className}")]
-        public async Task<IActionResult> GetUsers()
-        {
+        //[HttpGet("{className}")]
+        //public async Task<IActionResult> GetUsers()
+        //{
            
-        }
+        //}
     }
 }

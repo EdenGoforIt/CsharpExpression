@@ -2,7 +2,7 @@
 
 namespace Service
 {
-    internal class UserService : IUserService
+    internal class SearchEngineService : ISearchEngineService
     {
     }
 }
